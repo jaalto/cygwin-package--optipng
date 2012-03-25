@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package 0.5.5-2 -- Advanced PNG (Portable Network Graphics) optimizer
+Subject: Updated: optipng 0.6.4-1 -- Advanced PNG (Portable Network Graphics) optimizer
 
 PACKAGE DESCRIPTION
 ===================
@@ -17,8 +17,9 @@ like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 CHANGES SINCE LAST RELEASE
 ==========================
 
-setup.hin: Add section Graphics
-See also /usr/share/doc/optipng-*/HISTORY.txt
+Uses libpng14.
+
+See /usr/share/doc/optipng/history.txt
 
 INSTALL OR UPGRADE NOTES
 ========================

@@ -12,12 +12,12 @@ like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 
 Runtime requirements:
   cygwin
-  libpng12
+  libpng14
   zlib
 
 Build requirements:
   cygwin
-  libpng12-devel
+  libpng14-devel
   zlib
 
 Canonical homepage:
@@ -64,6 +64,9 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.6.4-1 -----
+- New upstream release 2012-03-25 Jari Aalto
+
 ----- version 0.5.5-2 -----
 - setup.hin: Add section Graphics
 - Closes: http://cygwin.com/ml/cygwin-apps/2008-11/msg00120.html
@@ -72,4 +75,4 @@ Port Notes:
 - Initial release 2008-03-06 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2012 Jari Aalto; Licensed under GPL v2 or later
