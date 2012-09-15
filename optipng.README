@@ -12,12 +12,12 @@ like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 
 Runtime requirements:
   cygwin
-  libpng14
+  libpng15
   zlib
 
 Build requirements:
   cygwin
-  libpng14-devel
+  libpng15-devel
   zlib
 
 Canonical homepage:
@@ -64,6 +64,10 @@ Files included in the binary distribution:
 ------------------------------------------
 
 Port Notes:
+
+----- version 0.7.2-1 -----
+- New upstream release 2012-09-15 Jari Aalto
+- Update to libpng15
 
 ----- version 0.6.4-1 -----
 - New upstream release 2012-03-25 Jari Aalto
