@@ -5,7 +5,7 @@ Subject: Updated: optipng 0.7.3-1 -- Advanced PNG (Portable Network Graphics) op
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://sourceforge.net/projects/optipng
+Homepage: http://freecode.com/projects/optipng
 License : GPL
 
 A PNG optimizer that recompresses the image files to a smaller size.
