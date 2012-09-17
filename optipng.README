@@ -11,12 +11,10 @@ smallest output file. It also recognizes several external file formats
 like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 
 Runtime requirements:
-  cygwin
   libpng15
-  zlib
+  zlib0
 
 Build requirements:
-  cygwin
   libpng15-devel
   zlib
 
@@ -64,6 +62,9 @@ Files included in the binary distribution:
 ------------------------------------------
 
 Port Notes:
+
+----- version 0.7.3-1 -----
+- New upstream release 2012-09-17 Jari Aalto
 
 ----- version 0.7.2-1 -----
 - New upstream release 2012-09-15 Jari Aalto
