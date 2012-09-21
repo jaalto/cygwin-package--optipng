@@ -6,7 +6,7 @@ PACKAGE DESCRIPTION
 ===================
 
 Homepage: http://freecode.com/projects/optipng
-License : "AS IS" (zlib/libpng License)
+License : "AS IS" (zlib/libpng)
 
 A PNG optimizer that recompresses the image files to a smaller size.
 It losslessly reduces the bit depth, the color type and the color
@@ -18,7 +18,9 @@ like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See /usr/share/doc/optipng/history.txt
+Libpng15 update.
+
+See homepage for release notes and file /usr/share/doc/optipng/history.txt
 
 INSTALL OR UPGRADE NOTES
 ========================
