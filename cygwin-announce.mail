@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: optipng 0.7.3-1 -- Advanced PNG (Portable Network Graphics) optimizer
+Subject: Updated: optipng 0.7.4-1 -- Advanced PNG (Portable Network Graphics) optimizer
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -20,7 +20,8 @@ CHANGES SINCE LAST RELEASE
 
 Libpng15 update.
 
-See homepage for release notes and file /usr/share/doc/optipng/history.txt
+See homepage for release notes and file </usr/share/doc/optipng/history.txt>.
+See chnages at http://optipng.hg.sourceforge.net/hgweb/optipng/optipng/
 
 INSTALL OR UPGRADE NOTES
 ========================

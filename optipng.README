@@ -28,6 +28,8 @@ Canonical download:
   https://sourceforge.net/projects/optipng/files/OptiPNG/
 
 Version control repository:
+  https://sourceforge.net/projects/optipng/develop
+  hg clone http://optipng.hg.sourceforge.net:8000/hgroot/optipng/optipng
 
 Mailing list:
   See Sourceforge
@@ -64,8 +66,13 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.7.4-1 -----
+- New upstream release 2012-10-23 Jari Aalto
+- Fix security issue CVE-2012-4432
+
 ----- version 0.7.3-1 -----
 - New upstream release 2012-09-17 Jari Aalto
+- libpng15
 
 ----- version 0.7.2-1 -----
 - New upstream release 2012-09-15 Jari Aalto
