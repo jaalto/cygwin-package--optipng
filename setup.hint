@@ -6,4 +6,4 @@ strategies, and selects the compression parameters that yield the
 smallest output file. It also recognizes several external file formats
 like BMP, GIF, TIFF and PNM (PBM, PGM, PPM)."
 category: Graphics Utils
-requires: libgcc1 libpng15 zlib0
+requires: libpng15 zlib0
