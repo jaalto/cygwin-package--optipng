@@ -16,5 +16,5 @@
 # The included Makefile install *.1 page wrong. Easier to do install
 # here than patch the Makefile.
 
-src/optipng usr/bin/
+src/optipng/optipng usr/bin/
 src/optipng/man/optipng.1

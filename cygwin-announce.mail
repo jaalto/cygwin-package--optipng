@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: optipng 0.7.4-1 -- Advanced PNG (Portable Network Graphics) optimizer
+Subject: Updated: optipng 0.7.4-2 -- Advanced PNG (Portable Network Graphics) optimizer
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -18,7 +18,7 @@ like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 CHANGES SINCE LAST RELEASE
 ==========================
 
-Libpng15 update.
+Manual page directory update.
 
 See homepage for release notes and file </usr/share/doc/optipng/history.txt>.
 See chnages at http://optipng.hg.sourceforge.net/hgweb/optipng/optipng/
