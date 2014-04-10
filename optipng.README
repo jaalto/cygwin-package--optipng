@@ -66,6 +66,9 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.7.5-1 -----
+- New upstream release 2014-04-10 Jari Aalto
+
 ----- version 0.7.4-2 -----
 - Cygwin packaging update 2013-10-12 Jari Aalto
 - Correct manual page directory
