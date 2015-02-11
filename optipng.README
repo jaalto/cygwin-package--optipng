@@ -11,11 +11,11 @@ smallest output file. It also recognizes several external file formats
 like BMP, GIF, TIFF and PNM (PBM, PGM, PPM).
 
 Runtime requirements:
-  libpng15
+  libpng16
   zlib0
 
 Build requirements:
-  libpng15-devel
+  libpng16-devel
   zlib
 
 Canonical homepage:
@@ -66,6 +66,10 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.7.5-2 -----
+- New release 2015-02-11 Jari Aalto
+- compile with libpng16
+
 ----- version 0.7.5-1 -----
 - New upstream release 2014-04-10 Jari Aalto
 
@@ -96,4 +100,4 @@ Port Notes:
 - Initial release 2008-03-06 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2014 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2015 Jari Aalto; Licensed under GPL v2 or later

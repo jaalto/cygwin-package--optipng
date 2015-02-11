@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: optipng 0.7.5-1 -- Advanced PNG (Portable Network Graphics) optimizer
+Subject: Updated: optipng 0.7.5-2 -- Advanced PNG (Portable Network Graphics) optimizer
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -27,6 +27,7 @@ INSTALL OR UPGRADE NOTES
 ========================
 
 Standard install.
+Compiled with libpng16
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
