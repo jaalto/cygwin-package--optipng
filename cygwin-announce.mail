@@ -5,7 +5,7 @@ Subject: Updated: optipng 0.7.5-2 -- Advanced PNG (Portable Network Graphics) op
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/optipng
+Homepage: http://optipng.sourceforge.net
 License : "AS IS" (zlib/libpng)
 
 A PNG optimizer that recompresses the image files to a smaller size.
@@ -21,7 +21,7 @@ CHANGES SINCE LAST RELEASE
 Manual page directory update.
 
 See homepage for release notes and file </usr/share/doc/optipng/history.txt>.
-See chnages at http://optipng.hg.sourceforge.net/hgweb/optipng/optipng/
+See changes at http://sourceforge.net/p/optipng/mercurial/ci/default/tree/
 
 INSTALL OR UPGRADE NOTES
 ========================
