@@ -1,2 +1,2 @@
 tag1: optipng
-  http://packages.debian.org/unstable/optipng pregexp:orig.tar file:optipng_0.5.5.orig.tar.gz new: x:
+  http://packages.debian.org/unstable/optipng pregexp:orig.tar.xz file:optipng_0.5.5.orig.tar.xz new: x:
