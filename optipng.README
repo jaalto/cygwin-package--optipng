@@ -19,7 +19,6 @@ Build requirements:
   zlib
 
 Canonical homepage:
-  http://freecode.com/projects/optipng
   http://sourceforge.net/projects/optipng
   http://packages.debian.org/optipng
 
@@ -43,7 +42,7 @@ Upstream contact:
   Bugs: http://sourceforge.net/tracker/?atid=780913&group_id=151404&func=browse
 
 License:
-  zlib/libpng License
+  Zlib MIT
 
 Language:
   C
