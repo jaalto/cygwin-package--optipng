@@ -7,4 +7,4 @@ smallest output file. It also recognizes several external file formats
 like BMP, GIF, TIFF and PNM (PBM, PGM, PPM)."
 category: Graphics Utils
 requires: libpng16 zlib0
-license: Zlib MIT
+license: MIT
